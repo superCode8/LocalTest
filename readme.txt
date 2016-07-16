@@ -6,3 +6,5 @@ aaa
 bbb
 ccc
 stupid
+
+create a new branch is quick.
