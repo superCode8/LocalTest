@@ -19,3 +19,5 @@ I am a happy boy.
 I am a lucky boy.
 
 I am a sunny boy.
+
+I am a cool boy.
